@@ -1,0 +1,4 @@
+style = "yas"
+align_assignment = true
+always_use_return = false
+margin = 120
